@@ -17,6 +17,7 @@ gem 'childprocess', '0.3.9'
 end
 
 gem 'rails', '4.0.1'
+gem 'bootstrap-sass', '2.3.2.0'
 
 
 gem 'sass-rails', '4.0.0'
